@@ -1,2 +1,2 @@
-# LegendOfLuDan 卤蛋传奇
+# LegendOfLudan 卤蛋传奇
 
